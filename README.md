@@ -20,8 +20,7 @@
 ## ✨ About Me
 
 - 👨‍💻 Frontend developer with **~2 years** of experience shipping production sites for real clients
-- 🏢 Working at **Three Fourth Solutions (TFS)**, a creative & marketing agency in Kolkata
-- 🎬 Running a **storytelling YouTube channel** on the side for a global audience
+- 🏢 Working at **Three Fourth Solutions**, a creative & marketing agency in Kolkata
 - 🎨 Obsessed with **smooth scroll, micro-interactions and motion design**
 - ⚡ Focused on performance, responsive layouts and clean, maintainable components
 
@@ -50,9 +49,9 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| [**tandhangroup.com**](https://tandhangroup.com) | Corporate site | Next.js |
 | [**marsonsonline.com**](https://marsonsonline.com) | Corporate site with a live stock price widget | Next.js |
 | [**dermatio.in**](https://dermatio.in) | Skincare e-commerce experience | React · Vite · Tailwind |
-| [**josephpal.in**](https://josephpal.in) | My personal portfolio | React · GSAP · Framer Motion |
 
 ---
 
@@ -77,7 +76,7 @@ I'm open to **freelance projects and collaborations** — landing pages, busines
 
 <div align="center">
 
-**[🌐 View my portfolio](https://josephpal.in)** &nbsp;·&nbsp; **[📩 Say hello](mailto:YOUR_EMAIL)**
+**[🌐 View my portfolio](https://josephpal.in)** &nbsp;·&nbsp; **[📩 Say hello](mailto:josephpal27@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer" width="100%"/>
 
