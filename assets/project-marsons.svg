@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 284" width="410" height="284" role="img" aria-label="Marsons Limited" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="marsonsb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B2B45"/><stop offset="1" stop-color="#0E1020"/></linearGradient>
+<radialGradient id="marsonsg" cx="0.85" cy="0" r="0.8"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.32"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<clipPath id="marsonsc"><rect x="0" y="0" width="410" height="284" rx="20"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="409" height="283" rx="20" fill="#0E1020" stroke="#25294A"/>
+<g clip-path="url(#marsonsc)">
+<rect width="410" height="112" fill="url(#marsonsb)"/><rect width="410" height="112" fill="url(#marsonsg)"/>
+<line x1="0" y1="112" x2="410" y2="112" stroke="#38BDF8" stroke-opacity="0.28"/>
+</g>
+<defs><linearGradient id="mA" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient></defs>
+<path d="M28,104 L28.0,92 L60.2,86 L92.4,89 L124.6,78 L156.8,81 L189.0,70 L221.2,73 L253.4,62 L285.6,65 L317.8,56 L350.0,59 L382.2,50 L382.2,104 Z" fill="url(#mA)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3;0.5;1" dur="7s" repeatCount="indefinite"/></path>
+<polyline points="28.0,92 60.2,86 92.4,89 124.6,78 156.8,81 189.0,70 221.2,73 253.4,62 285.6,65 317.8,56 350.0,59 382.2,50" fill="none" stroke="#38BDF8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="620" stroke-dashoffset="620"><animate attributeName="stroke-dashoffset" values="620;0;0" keyTimes="0;0.45;1" dur="7s" repeatCount="indefinite"/></polyline>
+<circle cx="382.2" cy="50" r="4.5" fill="#fff"/>
+<circle cx="382.2" cy="50" r="4.5" fill="none" stroke="#38BDF8"><animate attributeName="r" values="4.5;13" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="28" y="16" width="44" height="22" rx="11" fill="#38BDF8" fill-opacity="0.16" stroke="#38BDF8" stroke-opacity="0.5"/><text x="50" y="31" font-size="11.5" font-weight="600" fill="#38BDF8" text-anchor="middle">BSE</text>
+<rect x="80" y="16" width="44" height="22" rx="11" fill="#38BDF8" fill-opacity="0.16" stroke="#38BDF8" stroke-opacity="0.5"/><text x="102" y="31" font-size="11.5" font-weight="600" fill="#38BDF8" text-anchor="middle">NSE</text>
+<rect x="324" y="14" width="62" height="22" rx="11" fill="#000" fill-opacity="0.35" stroke="#fff" stroke-opacity="0.12"/>
+<circle cx="339" cy="25" r="3.5" fill="#34D399"/><text x="349" y="29.5" font-size="11.5" font-weight="500" fill="#E5E7EB">Live</text>
+<text x="28" y="148" font-size="23" font-weight="700" fill="#F1F5F9" letter-spacing="-0.4">Marsons Limited</text>
+<text x="28" y="169" font-size="12.5" fill="#38BDF8">marsonsonline.com</text>
+<text x="382" y="169" font-size="12" fill="#7C84A3" text-anchor="end">Sole frontend developer</text>
+<text x="28" y="196" font-size="14" fill="#B4BBD3">Corporate site for a power-equipment maker</text>
+<text x="28" y="216" font-size="14" fill="#B4BBD3">with a live BSE/NSE share price widget.</text>
+<rect x="28" y="234" width="69" height="26" rx="13" fill="#fff" fill-opacity="0.06" stroke="#fff" stroke-opacity="0.10"/><text x="62.5" y="251.5" font-size="12" fill="#D5DAEE" text-anchor="middle">Next.js</text><rect x="105" y="234" width="56" height="26" rx="13" fill="#fff" fill-opacity="0.06" stroke="#fff" stroke-opacity="0.10"/><text x="133.0" y="251.5" font-size="12" fill="#D5DAEE" text-anchor="middle">React</text><rect x="169" y="234" width="102" height="26" rx="13" fill="#fff" fill-opacity="0.06" stroke="#fff" stroke-opacity="0.10"/><text x="220.0" y="251.5" font-size="12" fill="#D5DAEE" text-anchor="middle">Tailwind CSS</text><rect x="279" y="234" width="42" height="26" rx="13" fill="#fff" fill-opacity="0.06" stroke="#fff" stroke-opacity="0.10"/><text x="300.0" y="251.5" font-size="12" fill="#D5DAEE" text-anchor="middle">PHP</text>
+</svg>

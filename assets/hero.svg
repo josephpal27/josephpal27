@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Joseph Pal, Frontend Developer" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<radialGradient id="g1" cx="0.12" cy="0" r="0.75"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.42"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.95" cy="1" r="0.65"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.24"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<linearGradient id="curve" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#fff" opacity="0.06"/></pattern>
+<clipPath id="frame"><rect width="1000" height="340" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1000" height="340" fill="#0A0B14"/>
+<rect width="1000" height="340" fill="url(#dots)"/>
+<rect width="1000" height="340" fill="url(#g1)"/>
+<rect width="1000" height="340" fill="url(#g2)"/>
+</g>
+<rect x="0.5" y="0.5" width="999" height="339" rx="26" fill="none" stroke="#25294A"/>
+
+<rect x="64" y="42" width="214" height="32" rx="16" fill="#34D399" fill-opacity="0.10" stroke="#34D399" stroke-opacity="0.35"/>
+<circle cx="84" cy="58" r="4" fill="#34D399"/>
+<circle cx="84" cy="58" r="4" fill="none" stroke="#34D399"><animate attributeName="r" values="4;11" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="98" y="63" font-size="14" font-weight="500" fill="#6EE7B7">Open to opportunities</text>
+
+<text x="62" y="158" font-size="72" font-weight="800" fill="#F1F5F9" letter-spacing="-2.5">Joseph Pal</text>
+<text x="64" y="206" font-size="29" font-weight="500" fill="#C4B5FD">Frontend Developer</text>
+<clipPath id="c0"><rect x="64" y="236" width="0" height="40"><animate attributeName="width" values="0;0;390;390;0;0" keyTimes="0;0.0000;0.1000;0.2000;0.2350;1" dur="18s" repeatCount="indefinite"/></rect></clipPath><text x="64" y="262" font-size="20" fill="#94A3B8" textLength="390" lengthAdjust="spacing" clip-path="url(#c0)">React and Next.js, built for production</text><rect x="64" y="244" width="2.5" height="24" rx="1" fill="#A78BFA" opacity="0"><animate attributeName="x" values="64;64;458;458;64;64" keyTimes="0;0.0000;0.1000;0.2000;0.2350;1" dur="18s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.0000;0.2350;1" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect><clipPath id="c1"><rect x="64" y="236" width="0" height="40"><animate attributeName="width" values="0;0;340;340;0;0" keyTimes="0;0.2500;0.3500;0.4500;0.4850;1" dur="18s" repeatCount="indefinite"/></rect></clipPath><text x="64" y="262" font-size="20" fill="#94A3B8" textLength="340" lengthAdjust="spacing" clip-path="url(#c1)">Motion with GSAP and Framer Motion</text><rect x="64" y="244" width="2.5" height="24" rx="1" fill="#A78BFA" opacity="0"><animate attributeName="x" values="64;64;408;408;64;64" keyTimes="0;0.2500;0.3500;0.4500;0.4850;1" dur="18s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.2500;0.4850;1" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect><clipPath id="c2"><rect x="64" y="236" width="0" height="40"><animate attributeName="width" values="0;0;420;420;0;0" keyTimes="0;0.5000;0.6000;0.7000;0.7350;1" dur="18s" repeatCount="indefinite"/></rect></clipPath><text x="64" y="262" font-size="20" fill="#94A3B8" textLength="420" lengthAdjust="spacing" clip-path="url(#c2)">Corporate sites and e-commerce storefronts</text><rect x="64" y="244" width="2.5" height="24" rx="1" fill="#A78BFA" opacity="0"><animate attributeName="x" values="64;64;488;488;64;64" keyTimes="0;0.5000;0.6000;0.7000;0.7350;1" dur="18s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5000;0.7350;1" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect><clipPath id="c3"><rect x="64" y="236" width="0" height="40"><animate attributeName="width" values="0;0;420;420;0;0" keyTimes="0;0.7500;0.8500;0.9500;0.9850;1" dur="18s" repeatCount="indefinite"/></rect></clipPath><text x="64" y="262" font-size="20" fill="#94A3B8" textLength="420" lengthAdjust="spacing" clip-path="url(#c3)">Figma to responsive React, pixel for pixel</text><rect x="64" y="244" width="2.5" height="24" rx="1" fill="#A78BFA" opacity="0"><animate attributeName="x" values="64;64;488;488;64;64" keyTimes="0;0.7500;0.8500;0.9500;0.9850;1" dur="18s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7500;0.9850;1" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect>
+
+<line x1="620" y1="60" x2="620" y2="284" stroke="#fff" opacity="0.05"/><line x1="700" y1="60" x2="700" y2="284" stroke="#fff" opacity="0.05"/><line x1="780" y1="60" x2="780" y2="284" stroke="#fff" opacity="0.05"/><line x1="860" y1="60" x2="860" y2="284" stroke="#fff" opacity="0.05"/><line x1="940" y1="60" x2="940" y2="284" stroke="#fff" opacity="0.05"/><line x1="600" y1="80" x2="960" y2="80" stroke="#fff" opacity="0.05"/><line x1="600" y1="152" x2="960" y2="152" stroke="#fff" opacity="0.05"/><line x1="600" y1="224" x2="960" y2="224" stroke="#fff" opacity="0.05"/><line x1="600" y1="262" x2="960" y2="262" stroke="#fff" opacity="0.05"/>
+<path d="M620 262 L940 80" stroke="#64748B" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.6"/>
+<path d="M620 262 C 700 92, 800 80, 940 80" fill="none" stroke="url(#curve)" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="620" cy="262" r="5" fill="#0A0B14" stroke="#A78BFA" stroke-width="2"/>
+<circle cx="940" cy="80" r="5" fill="#0A0B14" stroke="#22D3EE" stroke-width="2"/>
+<circle r="3.5" fill="#64748B"><animateMotion dur="3.6s" repeatCount="indefinite" path="M620 262 L940 80" calcMode="linear"/></circle><g><circle r="14" fill="#A78BFA" opacity="0.25"><animateMotion dur="3.6s" repeatCount="indefinite" path="M620 262 C 700 92, 800 80, 940 80" calcMode="spline" keyPoints="0;1;1" keyTimes="0;0.6;1" keySplines="0.22 1 0.36 1;0 0 1 1"/></circle><circle r="6.5" fill="#fff"><animateMotion dur="3.6s" repeatCount="indefinite" path="M620 262 C 700 92, 800 80, 940 80" calcMode="spline" keyPoints="0;1;1" keyTimes="0;0.6;1" keySplines="0.22 1 0.36 1;0 0 1 1"/></circle></g>
+<text x="700" y="302" font-size="13" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">ease: "power3.out"</text>
+<text x="808" y="176" font-size="12" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">linear</text>
+</svg>
