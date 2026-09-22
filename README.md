@@ -1,83 +1,49 @@
-<!-- Replace every YOUR_USERNAME with your GitHub username -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Joseph&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Crafting%20fast,%20fluid%20web%20experiences&descAlignY=58&descSize=18" alt="Header" width="100%"/>
+<img src="assets/hero.svg" alt="Joseph Pal, Frontend Developer" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=React+%26+Next.js+Developer;Animation+lover+%E2%80%94+GSAP+%26+Framer+Motion;Building+for+brands+at+TFS,+Kolkata;Turning+designs+into+pixel-perfect+code" alt="Typing SVG" />
-</a>
+<br />
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-josephpal.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josephpal.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-pal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josephpal.in-8B5CF6?style=for-the-badge&labelColor=12142A)](https://josephpal.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseph--pal-0A66C2?style=for-the-badge&labelColor=12142A)](https://linkedin.com/in/joseph-pal)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-0891B2?style=for-the-badge&labelColor=12142A)](mailto:josephpal27@gmail.com)
 
 </div>
 
----
+## About
 
-## ✨ About Me
+I'm a frontend developer at Three Fourth Solutions, a creative and marketing agency in Kolkata. Two years in, I've shipped sites for a power-equipment manufacturer, a skincare brand and a multi-sector group, taking each one from design file to production with React and Next.js.
 
-- 👨‍💻 Frontend developer with **~2 years** of experience shipping production sites for real clients
-- 🏢 Working at **Three Fourth Solutions**, a creative & marketing agency in Kolkata
-- 🎨 Obsessed with **smooth scroll, micro-interactions and motion design**
-- ⚡ Focused on performance, responsive layouts and clean, maintainable components
+- **Corporate and brand sites** built with Next.js and Tailwind CSS, fast to load and easy to maintain
+- **E-commerce** with real checkout flows: cart, payments and order emails
+- **Motion and interaction** with GSAP, Framer Motion and smooth scrolling that supports the content
+- **Design to code**, turning Figma files and PSDs into responsive interfaces
 
----
+## Stack
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="assets/stack.svg" alt="Tech stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Redux Toolkit, GSAP, Framer Motion, Swiper, Sass, Bootstrap, Material UI, jQuery, Node.js, Express, PHP, MySQL, REST APIs, Git, GitHub, Vite, Figma, npm" width="100%" />
+</div>
+
+## Selected work
+
+<a href="https://marsonsonline.com"><img src="assets/project-marsons.svg" alt="Marsons Limited, marsonsonline.com" width="49%" /></a>
+<a href="https://dermatio.in"><img src="assets/project-dermatio.svg" alt="Dermatio, dermatio.in" width="49%" /></a>
+<a href="https://tandhangroup.com"><img src="assets/project-tandhan.svg" alt="Tandhan Group, tandhangroup.com" width="49%" /></a>
+<a href="https://github.com/josephpal27/altwood"><img src="assets/project-altwood.svg" alt="Altwood, source on GitHub" width="49%" /></a>
+
+Source code: [marsons-limited-next](https://github.com/josephpal27/marsons-limited-next), [Dermatio](https://github.com/josephpal27/Dermatio) and [altwood](https://github.com/josephpal27/altwood). More on my [repositories page](https://github.com/josephpal27?tab=repositories).
+
+## GitHub activity
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black)
-![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,git,github,figma&theme=dark" alt="Skills" />
+<img src="https://streak-stats.demolab.com?user=josephpal27&theme=tokyonight&hide_border=true&background=0E1020&ring=A78BFA&fire=22D3EE&border_radius=20" alt="GitHub contribution streak" width="495" />
 
 </div>
 
----
+## Let's talk
 
-## 🚀 Featured Work
+I'm open to opportunities. Email is the quickest way to reach me, or find me on [LinkedIn](https://linkedin.com/in/joseph-pal).
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**tandhangroup.com**](https://tandhangroup.com) | Corporate site | Next.js |
-| [**marsonsonline.com**](https://marsonsonline.com) | Corporate site with a live stock price widget | Next.js |
-| [**dermatio.in**](https://dermatio.in) | Skincare e-commerce experience | React · Vite · Tailwind |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephpal27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=josephpal27&theme=tokyonight&hide_border=true&background=0f0c29" alt="Streak" />
-
-</div>
-
----
-
-## 🤝 Let's Work Together
-
-I'm open to **freelance projects and collaborations** — landing pages, business sites, e-commerce frontends and animation-heavy builds.
-
-<div align="center">
-
-**[🌐 View my portfolio](https://josephpal.in)** &nbsp;·&nbsp; **[📩 Say hello](mailto:josephpal27@gmail.com)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer" width="100%"/>
-
-</div>
+<img src="assets/footer.svg" alt="" width="100%" />
